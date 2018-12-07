@@ -1,3 +1,3 @@
-# pyladies-asteroids
+# Pyladies Asteroids
 
-Code based on the Pyladies course, the Asteroids game.
+Code based on the Pyladies course, the `Asteroids` game.
